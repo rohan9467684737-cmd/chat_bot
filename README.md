@@ -2,7 +2,7 @@
 
 A conversational AI chatbot with 3 personality modes, built with **LangChain**, **Mistral AI**, and **Streamlit**.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://chatbot-rmz64ksvt6bd4hzhc9ctfg.streamlit.app/)
 
 ---
 
